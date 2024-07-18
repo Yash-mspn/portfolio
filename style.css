@@ -113,8 +113,6 @@ body {
     display: flex;
     align-items: center;
     padding: 70px 10% 0;
-    margin-top: 50px;
-
 }
 
 .home-content {
@@ -421,6 +419,7 @@ section{
     overflow: hidden;
     border-radius: 8px;
     cursor: pointer;
+    align-items: center;
 }
 
 .row img {
@@ -431,8 +430,8 @@ section{
 }
 
 .layer {
-    width: 60px;
-    height: 60px;
+    width: 100%;
+    height: 0;
     background: linear-gradient(rgba(0,0,0,0.1),#ffee10);
     position: absolute;
     border-radius: 8px;
@@ -542,8 +541,8 @@ section{
     display: inline-flex;
     justify-content: center;
     align-items: center;
-    width: 80px;
-    height: 80px;
+    width: 40px;
+    height: 40px;
     background: transparent;
     border: 2px solid #ffee10;
     border-radius: 50%;
