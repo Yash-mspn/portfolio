@@ -7,7 +7,7 @@ html {
 }
 
 ::-webkit-scrollbar-track {
-    background: #021227; 
+    background: #000307; 
     border-radius: 10px; 
 }
 
@@ -41,7 +41,7 @@ html {
 
 body {
     color: #ededed;
-    background: #021227;
+    background: #000206;
     /* background: url(./Img/d\ left\ 1.png); */
 
 }
